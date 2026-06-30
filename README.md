@@ -13,7 +13,7 @@ Este repositorio contiene el desarrollo del proyecto final para la materia **AI 
 │   ├── dataset.csv                  # Dataset histórico original (1460 filas, 81 columnas)
 │   ├── data_description.txt         # Diccionario de variables detallado
 │   └── cleaned_dataset.csv          # Dataset procesado e imputado listo para modelar
-├── MFSDv1p1_Regresion_Avanzada_con_PyCaret_CORREGIDO.ipynb
+├── MFSDv1p1_Regresion_Avanzada_con_PyCaret.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -176,7 +176,7 @@ pip install -r requirements.txt
 ### Ejecutar el notebook
 
 ```bash
-jupyter notebook "MFSDv1p1_Regresion_Avanzada_con_PyCaret_CORREGIDO.ipynb"
+jupyter notebook "MFSDv1p1_Regresion_Avanzada_con_PyCaret.ipynb"
 ```
 
 ---
